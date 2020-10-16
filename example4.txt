@@ -1,0 +1,15 @@
+Story 4 code:
+
+<div class="maze collision"></div>
+        <div class="line vertical line_one thick"></div>
+        <div class="line horizontal line_two thick"></div>
+        <div class="line vertical line_three thick"></div>
+        <div class="line horizontal line_four thick"></div>
+        <div class="line vertical line_five thick"></div>
+        <div class="line horizontal line_six thin"></div>
+        <div class="line vertical line_seven thin"></div>
+        <div class="line horizontal line_eight thick"></div>
+        <div class="line horizontal line_nine thick"></div>
+        <div class="line vertical line_ten thick"></div>
+        <div class="line horizontal line_eleven"></div>
+        <div class="finish_area">
